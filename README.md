@@ -2,7 +2,8 @@
 ## Introduction
 
 
-A tutorial for some of the methods described in Dzyabura, El Kihal and Peres (2020), "Image Analytics in Marketing", in The Handbook of Market Research, Ch 14, Editors: Christian Homburg, Martin Klarmann, Arnd Vomberg. Springer, 2021. March 2021. We thank Efrat Naor for her great contribution to this tutorial.
+A tutorial for some of the methods described in Dzyabura, El Kihal and Peres (2021), "Image Analytics in Marketing", in The Handbook of Market Research, Ch 14, Editors: Christian Homburg, Martin Klarmann, Arnd Vomberg. Springer, 2021. March 2021. https://doi.org/10.1007/978-3-319-05542-8_38-1
+We thank Efrat Naor for her great contribution to this tutorial.
 
 
 ## Content
